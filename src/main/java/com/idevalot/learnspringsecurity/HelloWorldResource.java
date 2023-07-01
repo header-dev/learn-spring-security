@@ -8,7 +8,7 @@ public class HelloWorldResource {
 
 	@GetMapping("/hello-world")
 	public String hellWorld() {
-		return "Hello World";
+		return "Hello World v1";
 	}
 
 }
