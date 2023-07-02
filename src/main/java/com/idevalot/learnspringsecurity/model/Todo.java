@@ -1,4 +1,4 @@
-package com.idevalot.learnspringsecurity.resources.model;
+package com.idevalot.learnspringsecurity.model;
 
 public class Todo {
 
